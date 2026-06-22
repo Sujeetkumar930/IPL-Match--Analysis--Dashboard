@@ -21,7 +21,7 @@ This project analyzes IPL match data using Python and Power BI.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img src="dashboard.png" width="1000">
 
 ## Key Insights
 - Matches played across cities
